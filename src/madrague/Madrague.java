@@ -7,7 +7,7 @@ public class Madrague {
 	private List<BrigitteBardot> habitants = new ArrayList<BrigitteBardot>();
 	
 	public String getAllAnimals() {
-		
+		return "";
 	}
 	
 }
